@@ -1,2 +1,4 @@
-# tile_calculator
+# Tile Calculator
 My first solo project. Tile calculator!
+
+
